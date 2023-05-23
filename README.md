@@ -8,7 +8,7 @@
 -   Obtain your API key from [Spectra website](https://spectra-space.io/)
 -   Run Jenkins
 -   Manage Jenkins > Manage Plugins > Advanced Settings > Deploy Plugin > Select File
--   Select "spectra-plugin.hpi" in [Spectra plugin repository](https://github.com/spark63/spectra-jenkins-plugin) and deploy.
+-   Select "spectra-plugin.hpi" in [Spectra plugin repository](https://github.com/spark63/Jenkins-Plugin) and deploy.
 
 ## Apply to Freestyle Project
 
