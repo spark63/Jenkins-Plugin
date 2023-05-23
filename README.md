@@ -1,6 +1,7 @@
 # Spectra Plugin For Jenkins - Build Steps / Post-build Actions / Pipeline
 
 -   Spectra plugin for Jenkins helps you integrate Spectra's automated audit process into your project CI/CD flow.
+-   Check "spectra\_guide" in this repository for details.
 
 ## Set up
 
@@ -14,8 +15,6 @@
 -   After installation, you will find "Spectra" in "Build Steps" and "Post-build Actions"
     -   They work same, so you may use it depending on your CI procedure
 -   Put API key
-
-![img.png](img.png)
 
 ## Apply to Pipeline Project
 
